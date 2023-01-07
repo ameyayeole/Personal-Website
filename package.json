@@ -29,6 +29,9 @@
       "not dead",
       "not op_mini all"
     ],
+    "homepage" : "https://ameyayeole.github.io/Personal-Website",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
