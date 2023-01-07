@@ -86,6 +86,7 @@ a:hover{
 .about{
     background-color:black;
     display: flex;
+    padding-top: 40px;
 }
 .aboutRight{
     margin: 180px 100px 0px 150px;
@@ -111,4 +112,35 @@ a:hover{
 }
 .skills{
     background-color: black;
+    padding: 75px 0px;
+
+}
+.skillMain{
+   display: flex;
+   padding: 50px 0px 40px 80px;
+}
+.skillSet{
+    display: flex;
+}
+.skillName{
+    width: 240px;
+    font-size: 40px;
+    padding: 20px 0px 20px 100px;
+}
+.skillHead{
+    color: #F6B31A;
+    font-size: 60px;
+    padding: 20px 0px;
+    width: 100%;
+    text-align: center;
+}
+.stars{
+    margin-left: 50px;
+}
+.starImg{
+    height: 30px;
+    padding: 20px 0px 20px 0px;
+}
+.skillsRight{
+    margin-left: 200px;
 }
