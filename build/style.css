@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: "inter", sans-serif;
+    /* background-color:black; */
+}
+.navbar{
+    background: rgba(0, 0, 0, 0.2); 
+    backdrop-filter: blur(10px);
+    width: 100%;
+    box-shadow: grey;
+    display: flex;
+    position: fixed;
+    top: 0%;
+}
+h1{
+    padding:15px 0px 0px 100px;
+    color: white;
+    font-size: 50px;
+    font-family: "inter", sans-serif;
+}
+ul{
+    display: flex;
+    ;
+    padding-top: 15px;
+    padding-right: 70px;
+    margin-left: auto;
+}
+li{
+    padding: 15px 25px;
+    list-style-type: none;
+}
+a{
+    font-size: 25px;
+    font-family: "inter", sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color:#F6B31A;
+}
+.home{
+    background-color:black;
+    display: flex;
+    padding-top: 90px;
+    
+}
+.intro{
+ /* padding: 120px 100px; */
+ padding: 120px 100px 120px 190px;
+ width: 490px;
+ 
+}
+.yellowText1{
+    color:#F6B31A;
+    font-size: 30px;
+    margin-left:3px;
+}
+.yellowText2{
+    color:#F6B31A;
+}
+.introName{
+    font-size: 100px;
+}
+.introDesc{
+    font-size: 40px;
+    margin-top: 20px;
+    font-family: "lobster";
+    font-weight: lighter;
+}
+.contactButton{
+    background-color: black;
+    width: 200px;
+    padding:15px;
+    margin: 50px 20px 0px 0px;
+    border-radius: 40px;
+}
+.contactButton:hover{
+    background-color: ;
+}
+.manIMG{
+    margin-left: 140px;
+    height: 700px;
+    
+}
+.about{
+    background-color:black;
+    display: flex;
+    padding-top: 40px;
+}
+.aboutRight{
+    margin: 180px 100px 0px 150px;
+}
+.manOnLaptop{
+    margin:80px;
+    height:300px;
+}
+.quote{
+    margin: 0px 1px 60px 150px;
+    height: 250px;
+}
+.aboutYellow{
+    font-size: 70px;
+    color: #F6B31A;
+}
+.aboutMain{
+    font-size: 40px;
+    padding: 60px 70px 60px 0px;
+}
+.yellow{
+    color: #F6B31A;
+}
+.skills{
+    background-color: black;
+    padding: 75px 0px;
+
+}
+.skillMain{
+   display: flex;
+   padding: 50px 0px 40px 80px;
+}
+.skillSet{
+    display: flex;
+}
+.skillName{
+    width: 240px;
+    font-size: 40px;
+    padding: 20px 0px 20px 100px;
+}
+.skillHead{
+    color: #F6B31A;
+    font-size: 60px;
+    padding: 20px 0px;
+    width: 100%;
+    text-align: center;
+}
+.stars{
+    margin-left: 50px;
+}
+.starImg{
+    height: 30px;
+    padding: 20px 0px 20px 0px;
+}
+.skillsRight{
+    margin-left: 200px;
+}

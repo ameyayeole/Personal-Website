@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/static/js/main.5eacc230.js",
+    "static/media/star.png": "/static/media/star.398cde1b1d8264289484.png",
+    "static/media/manOnLAptop.png": "/static/media/manOnLAptop.317ed7f45af9e95ad70c.png",
+    "static/media/quote.png": "/static/media/quote.74046d2659a9f59cfc64.png",
+    "static/media/man.png": "/static/media/man.af9ed4f6dd20d1d51553.png",
+    "static/media/myResume.pdf": "/static/media/myResume.c4caaa940b2b7dfa8bf4.pdf",
+    "index.html": "/index.html",
+    "main.5eacc230.js.map": "/static/js/main.5eacc230.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5eacc230.js"
+  ]
+}
