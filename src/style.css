@@ -75,9 +75,7 @@ a:hover{
     margin: 50px 20px 0px 0px;
     border-radius: 40px;
 }
-/* .contactButton:hover{
-    background-color: ;
-} */
+
 .manIMG{
     margin-left: 140px;
     height: 700px;
@@ -144,3 +142,37 @@ a:hover{
 .skillsRight{
     margin-left: 200px;
 }
+.project{
+    background-color: black;
+    padding-top: 100px;
+}
+.img{
+    padding: 50px 100px;
+    height: 200px;
+    width: 350px;
+}
+/* .foodKart{
+    height: 200px;
+}
+.simon{
+    height: 220px;
+} */
+.projectImg{
+    padding: 30px 150px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.contact{
+    background-color: black;
+}
+@media screen and (min-width: 390px) {
+    body {
+      background-color: black;
+    }
+    .home{
+        display:block
+    }
+    .manIMG{
+        height: 350px;
+    }
+  }
