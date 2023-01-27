@@ -11,10 +11,10 @@ function Home(){
         </p>
         <p className="introDesc">An aspiring Full Stack Web Developer</p>
         <button className="contactButton"><a  href="#contact">Contact me</a></button>
-        <button className="contactButton"><a  href={require("./myResume.pdf")} target="_blank">Resume</a></button>
+        <button className="contactButton"><a  href={require("./images/myResume.pdf")} target="_blank">Resume</a></button>
         </div>
         <div>
-        <img className="manIMG" alt="hello" src={require("./man.png")}/>
+        <img className="manIMG" alt="hello" src={require("./images/man.png")}/>
         </div>
         </div>
     )

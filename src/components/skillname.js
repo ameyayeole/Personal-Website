@@ -5,7 +5,7 @@ import React from "react"
 function SkillItem(props){
     let stars = [];
     for(let i = 0;i<props.stars;i++){
-        stars.push(<img className="starImg" alt="" src={require("./star.png")}/>);
+        stars.push(<img className="starImg" alt="" src={require("./images/star.png")}/>);
        }
     return(<div className="skillSet">
     <div className="skillName">
