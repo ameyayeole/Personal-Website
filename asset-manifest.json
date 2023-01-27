@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.js": "/Personal-Website/static/js/main.f7792632.js",
+    "main.css": "/Personal-Website/static/css/main.70605761.css",
+    "main.js": "/Personal-Website/static/js/main.7b52ad1c.js",
     "static/media/star.png": "/Personal-Website/static/media/star.398cde1b1d8264289484.png",
     "static/media/manOnLAptop.png": "/Personal-Website/static/media/manOnLAptop.317ed7f45af9e95ad70c.png",
     "static/media/quote.png": "/Personal-Website/static/media/quote.74046d2659a9f59cfc64.png",
     "static/media/man.png": "/Personal-Website/static/media/man.af9ed4f6dd20d1d51553.png",
-    "static/media/myResume.pdf": "/Personal-Website/static/media/myResume.c4caaa940b2b7dfa8bf4.pdf",
+    "static/media/keeper.png": "/Personal-Website/static/media/keeper.65c208f012cb596dce8b.png",
+    "static/media/Simon.png": "/Personal-Website/static/media/Simon.bcac64eafda7416155e6.png",
+    "static/media/foodkart.jpg": "/Personal-Website/static/media/foodkart.e21b34134350871bcad3.jpg",
+    "static/media/myResume.pdf": "/Personal-Website/static/media/myResume.e0bdb923dcce2d5938ad.pdf",
+    "static/media/instagram.png": "/Personal-Website/static/media/instagram.1fd428f284b23d80a596.png",
+    "static/media/github.png": "/Personal-Website/static/media/github.332b3afe4865085823ee.png",
+    "static/media/gmail-logo.png": "/Personal-Website/static/media/gmail-logo.e269593d45c5a158dcd6.png",
     "index.html": "/Personal-Website/index.html",
-    "main.f7792632.js.map": "/Personal-Website/static/js/main.f7792632.js.map"
+    "main.70605761.css.map": "/Personal-Website/static/css/main.70605761.css.map",
+    "main.7b52ad1c.js.map": "/Personal-Website/static/js/main.7b52ad1c.js.map"
   },
   "entrypoints": [
-    "static/js/main.f7792632.js"
+    "static/css/main.70605761.css",
+    "static/js/main.7b52ad1c.js"
   ]
 }
